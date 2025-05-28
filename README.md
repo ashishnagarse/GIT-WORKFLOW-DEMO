@@ -174,19 +174,3 @@ git push origin feature/xyz
 * Use `git log --oneline` for a concise commit history.
 
 ---
-
-## 📬 Contact
-
-Maintained by **Ashish Nagarse**
-📧 [ashish.nagarse.2202@gmail.com](mailto:ashish.nagarse.2202@gmail.com)
-
----
-
-> ⚡ Powered by Git — The most trusted version control system in the dev world.
-
-```
-
----
-
-Let me know if you'd like this saved as a file or tailored to a specific project type (like Node.js, Python, etc.)!
-```
