@@ -1,6 +1,4 @@
-Based on the content in your provided **GIT DEMO.pdf**, here's a detailed and structured `README.md` file tailored for a Git workflow demo project. This file includes clear explanations, properly formatted commands, and a few valuable additions for best practices and missing steps.
 
----
 
 ````markdown
 # 🚀 Git Workflow Demo
@@ -19,8 +17,6 @@ This repository demonstrates the **step-by-step Git workflow** for solo or team 
 - [Working with Branches](#working-with-branches)
 - [Git Cheat Sheet](#git-cheat-sheet)
 - [Bonus Tips](#bonus-tips)
-
----
 
 ## 🛠 Getting Started
 
