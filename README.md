@@ -1,6 +1,3 @@
-
-
-````markdown
 # 🚀 Git Workflow Demo
 
 This repository demonstrates the **step-by-step Git workflow** for solo or team development. Whether you're just getting started or need a reliable routine, this guide will help you stay organized and productive using Git and GitHub.
@@ -18,19 +15,14 @@ This repository demonstrates the **step-by-step Git workflow** for solo or team 
 - [Git Cheat Sheet](#git-cheat-sheet)
 - [Bonus Tips](#bonus-tips)
 
+---
+
 ## 🛠 Getting Started
 
 Make sure Git is installed:
 
 ```bash
 git --version
-````
-
-If it's not installed, download from: [https://git-scm.com/downloads](https://git-scm.com/downloads)
-
-Create a GitHub account if you don’t have one: [https://github.com/](https://github.com/)
-
----
 
 ## 🧱 Creating a Git Repository
 
