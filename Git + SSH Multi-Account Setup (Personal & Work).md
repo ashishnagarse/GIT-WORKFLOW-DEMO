@@ -1,6 +1,3 @@
----
-
-````markdown
 # 🔐 Git + SSH Multi-Account Setup (Personal & Work)
 
 This guide walks you through setting up **two different GitHub accounts** (e.g. personal + work) on a single machine using **SSH keys**, and configuring Git to switch between them per project.
