@@ -27,7 +27,7 @@ ssh-keygen -t ed25519 -C "john.doe@company.com"
 # Save as: /c/Users/youruser/.ssh/id_ed25519_work
 ```
 
-Optionally enter a passphrase for security.
+Optionally enter a passphrase for security. you can just press enter to skip it.
 
 ---
 
@@ -67,6 +67,9 @@ Host github.com-work
   User git
   IdentityFile ~/.ssh/id_ed25519_work
   IdentitiesOnly yes
+
+Save and exit:
+In nano: Press Ctrl + O to save, then Enter, then Ctrl + X to exit.
 ```
 
 ---
@@ -195,7 +198,4 @@ You can now work with:
 
 Happy Git-ing! 🧑‍💻
 
-```
 
-Let me know if you'd like a `.gitignore` template or to generate this README with live user data automatically next time.
-```
