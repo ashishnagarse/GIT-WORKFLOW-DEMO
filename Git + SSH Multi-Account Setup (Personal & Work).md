@@ -179,7 +179,7 @@ git push -u origin main
 | Purpose              | Command                                          |
 | -------------------- | ------------------------------------------------ |
 | Check added SSH keys | `ssh-add -l`                                     |
-| Check Git identity   | `git config user.name` / `git config user.email` |
+| Check Git identity   | `git config user.name` / `git config user.email` / `git config --global --list` |
 | Change remote URL    | `git remote set-url origin <url>`                |
 | View SSH config      | `cat ~/.ssh/config`                              |
 
